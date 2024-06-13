@@ -12,7 +12,7 @@
       <paths name="testserver">
         <serverdata>
           <mappings>
-            <mapping deploy="testspirgif.students.bzz.ch" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/LU09A02" local="$PROJECT_DIR$" web="/LU09A02" />
           </mappings>
         </serverdata>
       </paths>
